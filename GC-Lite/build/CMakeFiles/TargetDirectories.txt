@@ -1,0 +1,6 @@
+/mnt/c/users/csuser/projects/Garbled-Computation-2.0/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/users/csuser/projects/Garbled-Computation-2.0/build/CMakeFiles/bob.dir
+/mnt/c/users/csuser/projects/Garbled-Computation-2.0/build/CMakeFiles/edit_cache.dir
+/mnt/c/users/csuser/projects/Garbled-Computation-2.0/build/CMakeFiles/helper.dir
+/mnt/c/users/csuser/projects/Garbled-Computation-2.0/build/CMakeFiles/alice.dir
+/mnt/c/users/csuser/projects/Garbled-Computation-2.0/build/CMakeFiles/preprocessor.dir

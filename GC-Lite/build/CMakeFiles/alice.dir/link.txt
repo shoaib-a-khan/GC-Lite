@@ -1,0 +1,1 @@
+/usr/bin/c++  -w   CMakeFiles/alice.dir/src/alice.cpp.o CMakeFiles/alice.dir/src/alice_main.cpp.o CMakeFiles/alice.dir/src/server.cpp.o  -o alice  -lpthread 

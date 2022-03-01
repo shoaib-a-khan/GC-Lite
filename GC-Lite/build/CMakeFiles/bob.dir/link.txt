@@ -1,0 +1,1 @@
+/usr/bin/c++  -w   CMakeFiles/bob.dir/src/bob.cpp.o CMakeFiles/bob.dir/src/bob_main.cpp.o CMakeFiles/bob.dir/src/client.cpp.o  -o bob  -lpthread 

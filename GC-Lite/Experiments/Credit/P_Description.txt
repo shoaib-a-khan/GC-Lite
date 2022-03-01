@@ -1,0 +1,12 @@
+1 8 1 10 0 	//check if age < 100, if true proceed, else disapprove
+3 8 2 2 1	//creating a -100 value
+1 3 3 3 2	//restoring the age variable that was modified in first instruction
+3 3 4 4 3	//restoring the 0 variable that was modified in second instruction
+0 3 5 7 4	//check if person is not male, if true proceed, else branch to instruction #7 
+1 4 10 6 5	//person is female, check if age >= 18
+2 5 10 9 6	//person is female, check if income >= 50
+1 6 10 8 7	//person is male, check if age >= 21 
+2 7 10 9 8	//person is male, check if income >= 40
+9 3 11 11 9	//set output value to 1
+3 3 11 11 10	//set output value to 0
+-1 -1 -1 -1 11	//terminate

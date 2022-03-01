@@ -1,0 +1,1 @@
+/usr/bin/c++  -w   CMakeFiles/helper.dir/src/helper.cpp.o CMakeFiles/helper.dir/src/helper_main.cpp.o  -o helper 

@@ -1,0 +1,10 @@
+0. is_male 		//input 
+1. age			//input
+2. income		//input
+3. variable = 0		//variable
+4. constant = 17	//least age for women to get credit
+5. constant = 49 	//least income for women to get credit
+6. constant = 20 	//least age for men to get credit
+7. constant = 39 	//least income for men to get credit
+8. constant = 100 	//maximum age limit to qualify for credit
+9. variable = 1		//variable
