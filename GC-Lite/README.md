@@ -1,4 +1,4 @@
-# Garbled-Computation-2.0
+# GC-Lite: A Novel Framework for Garbled Computation using Light-Weight Primitives 
 
 The present artifact is a proof-of-concept implementation of our Garbled Computation protocol in Figure 5 (Section 4) of the related paper. Below you will find a quick introduction to the goals that our protocol aims to achieve.
 
