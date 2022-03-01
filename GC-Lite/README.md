@@ -99,6 +99,4 @@ And viola! The magic starts to happen =)
 You can see the exection trace and the eventual output of privacy preserving fault tree analysis on the two terminals. Alice's view on terminal 1 and Bob's view on terminal 2. Adding the final two values output by Alice and Bob will give the actual ouptput of the circuit evaluation. 
 
 ## Acknowledgement and Disclaimer
-Part of this work was made possible by the NPRP award NPRP X-063-1-014 from the Qatar National Research Fund (a member of The Qatar Foundation). The statements made herein are solely the responsibility of the authors.
-
 This implementation is for proof of concept. There may be areas in the code that were implemented insecurely for the sake of code readibility and understanding. We are not responsible for any damages if the code is used for commercial purposes.
