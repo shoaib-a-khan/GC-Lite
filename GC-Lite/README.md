@@ -1,6 +1,6 @@
 # GC-Lite: A Novel Framework for Garbled Computation using Light-Weight Primitives 
 
-The present artifact is a proof-of-concept implementation of our Garbled Computation protocol in Figure 5 (Section 4) of the related paper. Below you will find a quick introduction to the goals that our protocol aims to achieve.
+The present artifact is a proof-of-concept implementation of our Garbled Computation protocol in Figure 6 (Section 5) of the related paper. Below you will find a quick introduction to the goals that our protocol aims to achieve.
 
 ## Introduction
 A Garbled Computer is a _universal_ and _secure_ computational model where an adversary observing the execution of a program learns nothing about the code being executed, nor the data it is operating on (whether inputs or intermediate values), nor the outputs it is producing. The model aims to achieve, using a single general approach, the multiple goals of software obfuscation, confidentiality of input data, and confidentiality of intermediate and output data values. It enables execution on untrusted platforms, of trusted and confidential code whose inputs and outputs are sensitive. For example, using GC we can utilize any cloud services provider X without revealing to X the nature of the computation or the data, and without requiring X to change the operation of its cloud services.
